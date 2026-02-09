@@ -1,0 +1,25 @@
+FIRMWARE DEPENDENCIES
+=========================================
+
+Project Name: Smart Vending Machine (IoT Firmware)
+Platform: ESP8266 (Master) & ESP32-CAM (Slave)
+
+REQUIRED LIBRARIES (Install via Arduino Library Manager):
+
+1. ArduinoJson (by Benoit Blanchon)
+   - Used for parsing JSON responses from the payment server.
+
+2. LiquidCrystal_I2C (by Frank de Brabander)
+   - Driver for LCD 16x2 display via I2C interface.
+
+3. I2CKeyPad (by Rob Tillaart)
+   - Specific library for 4x4 Matrix Keypad using PCF8574 I2C expander.
+
+BUILT-IN LIBRARIES (Included in Board Support Package):
+   - ESP8266WiFi / WiFi
+   - ESP8266HTTPClient / HTTPClient
+   - Wire (I2C)
+   - esp_camera (Standard ESP32 Camera Driver)
+   - WiFiClientSecureBearSSL (for HTTPS requests)
+
+=========================================
