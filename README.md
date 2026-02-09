@@ -44,11 +44,11 @@ I was fully responsible for the **IoT subsystem**, including:
 
 ### Full System Demonstration
 ▶️ **Complete system operation demo:**  
-[01_Full_System_Operation.mp4](demo_media/01_Full_System_Operation.mp4)
+[01_Full_System_Operation.mp4]([demo_media/01_Full_System_Operation.mp4](https://drive.google.com/file/d/1hUNdlhcGtkNUudN2bkwDZh0s49zR9ByX/view?usp=sharing))
 
 ### Money Intake Mechanism
 ▶️ **Banknote detection & intake demo (ESP32-CAM):**  
-[02_Money_Intake_Mechanism.mp4](demo_media/02_Money_Intake_Mechanism_Test.mp4)
+[02_Money_Intake_Mechanism.mp4]([demo_media/02_Money_Intake_Mechanism_Test.mp4](https://drive.google.com/file/d/1mCVCybgOZBQyTyvJJvL7Q4WHzWrlBX2U/view?usp=sharing))
 
 ### Device Overview
 **Exterior view:**  
